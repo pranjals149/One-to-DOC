@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Purohit",
+        "specialization": "Gynecology",
+        "ratings": "4.8/5"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Goswami",
+        "specialization": "Pediatrics",
+        "ratings": "4.6/5"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Verma",
+        "specialization": "Dentistry",
+        "ratings": "4.5/5"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sharma",
+        "specialization": "Orthology",
+        "ratings": "4.7/5"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Gupta",
+        "specialization": "ENT",
+        "ratings": "4.8/5"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Srivastava",
+        "specialization": "Neurology",
+        "ratings": "4.4/5"
+    }
+]

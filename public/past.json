@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Sharma",
+        "specialization": "Orthology",
+        "ratings": "4.7/5"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Gupta",
+        "specialization": "ENT",
+        "ratings": "4.8/5"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Srivastava",
+        "specialization": "Neurology",
+        "ratings": "4.4/5"
+    }
+]
