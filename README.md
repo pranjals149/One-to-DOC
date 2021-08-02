@@ -59,3 +59,9 @@ confidentiality.
 <p align="center"><img src="./Flowchart2.jpg" /></p>
 <p align="center"><img src="./Flowchart3.jpg" /></p>
 <p align="center"><img src="./Flowchart4.jpg" /></p>
+
+## Team Members
+
+1. Pranjal Srivastava - [LinkedIn](https://www.linkedin.com/in/pranjal-srivastava-801a9a152/) [GitHub](https://github.com/pranjals149)
+2. Ramankur Goswami - [LinkedIn](https://www.linkedin.com/in/ramankurgoswami/) [GitHub](https://github.com/RamankurGoswami)
+3. Shivam Purohit - [LinkedIn](https://www.linkedin.com/in/shivam-purohit-0930381aa/) [GitHub](https://github.com/ShivamPurohit)
