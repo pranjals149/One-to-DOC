@@ -15,7 +15,7 @@ check both his/her previous and current prescriptions and can manage payments, t
 The application also has a feature where a user can get into a **community with other users** and
 **healthcare experts** for instant **appointments**, **chats**, and **payments**. This will help in creating a larger platform for **healthcare solutions** and **better response times**.
 
-### How is our Solution Different
+## How is our Solution Different
 
 Our application , apart from being a **fully independent application**, has an edge
 over other solutions in the following ways:-
@@ -29,7 +29,7 @@ users.
 4. **Advanced Queue Management**
 5. **Review System for doctors**
 
-### Future possible enhancements
+## Future possible enhancements
 
 1. **Multi Language support** for ease of use for the users.
 2. **Creation of a mobile application** for the same to get better user coverage.
@@ -37,7 +37,7 @@ users.
 towards the application.
 4. Fully converting the application into **MERN**.
 
-### Risks/Challenges/Dependencies
+## Risks/Challenges/Dependencies
 
 1. **Data security** of the users and the experts is a challenge as we need to
 constantly evolve to handle more difficult threats such as **cross site scripting** and
@@ -45,7 +45,7 @@ constantly evolve to handle more difficult threats such as **cross site scriptin
 2. **Verification** of both experts and users is a must for protecting patient
 confidentiality.
 
-### Designs and MockUps
+## Designs and MockUps
 
 <p align="center"><img src="./symptom.jpeg" /></p>
 <p align="center"><img src="./fetch_reports.jpeg" /></p>
@@ -53,7 +53,7 @@ confidentiality.
 <p align="center"><img src="./Payment_records.jpeg" /></p>
 <p align="center"><img src="./queue_management.jpeg" /></p>
 
-### Flowcharts
+## Flowcharts
 
 <p align="center"><img src="./Flowchart1.jpg" /></p>
 <p align="center"><img src="./Flowchart2.jpg" /></p>
